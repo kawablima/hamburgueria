@@ -1,0 +1,25 @@
+.cartMain{
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 25px;
+}
+
+.titleCart{
+    display: flex;
+    align-items: center;
+    
+    width: 284px;
+    height: 55px;
+
+    margin: 0 auto;
+    
+    padding: 10px;
+
+    border-radius: 5px 5px 0px 0px;
+
+    font-weight: 700;
+
+    color: #fff;
+    background-color: #27AE60;
+}
